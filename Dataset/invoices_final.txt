@@ -1,0 +1,167 @@
+ACME SaaS Solutions Inc.
+SUBSCRIPTION RENEWAL NOTICE
+
+Account ID: CUST-88492
+Billing Date: March 3rd, 2026
+Payment Method: Visa ending in 4021
+
+Dear Customer,
+Your annual subscription for 'Enterprise Analytics Suite - Pro Tier' has automatically renewed for the period March 3, 2026 to March 2, 2027.
+
+Subtotal: $1,199.00
+Tax (8.875%): $106.41
+Total Charged: $1,305.41
+
+Thank you for your continued business!
+Questions? Contact support@acmesaas.example.com
+
+---
+
+INVOICE
+
+Vendor: TechSupply Solutions Pvt Ltd
+Invoice No: INV-2026-0941
+Date: 14/02/2026
+
+Items:
+1. Wireless Ergonomic Mouse (Qty: 2) @ ₹1,499.00 = ₹2,998.00
+2. Mechanical Keyboard RGB (Qty: 1) @ ₹4,500.00 = ₹4,500.00
+3. USB-C Docking Station 9-in-1 (Qty: 1) @ ₹3,200.00 = ₹3,200.00
+4. Braided HDMI Cable 2m (Qty: 3) @ ₹350.00 = ₹1,050.00
+
+Total Amount Payable: ₹11,748.00
+Payment Status: PAID via UPI
+
+---
+
+RECHNUNG / INVOICE
+
+Biergarten & Bistro Berlin GmbH
+Invoice Date: 01-18-26
+Invoice #: DE-883912
+
+Description                                    Amount
+-----------------------------------------------------
+Catering Services - Team Event (Single Package) €450.00
+
+Subtotal: €450.00
+VAT (19%): €85.50
+Total Due: €535.50
+
+Paid in Full via Mastercard
+
+---
+
+RECEIPT FROM MICROSFT SERVICES
+
+Transaction ID: 9021839218
+Date: 02/28/2026
+
+Thank you for your purchase from Microsft Services.
+
+Item: Microsoft 365 Family Annual Renewal
+Price: $99.99
+Tax: $8.25
+Total: $108.24
+
+Card Charged: Amex ending in 9102
+
+---
+
+INVOICE   #  2026-881   
+   Date:   2026.05.12    
+    Studio   Lumiere   Design   S.A.R.L.   
+   
+   DESCRIPTION   QTY   RATE   AMOUNT  
+   Brand Guidelines Redesign    1    1200.00    1 200,00 EUR  
+     Asset Export Pack    1   300.00   300,00 EUR  
+   
+    
+    Subtotal    1500,00 EUR 
+    TVA 20%    300,00 EUR 
+  TOTAL   1800,00 EUR 
+   
+  Paid    with   SEPA Transfer   Ref:   TX-99120
+
+---
+
+QUICK TAXI CO. - RIDE RECEIPT
+
+Date: March 15th, 2026
+Driver ID: #4492
+Trip Ref: TRIP-99201-NYC
+
+Total Fare: $42.50
+Tip: $8.00
+Total Charged: $50.50
+
+Tax: Included
+Payment Method: Apple Pay (Visa ****1102)
+Thank you for riding with us!
+
+---
+
+INVOICE / STATEMENT
+
+Apex Logistics & Courier Services
+Invoice No: APX-44102
+Date: 05/01/2026
+GSTIN: 07AAAAA0000A1Z5
+
+Consignment Details:
+- Air Freight Express: Delhi to Mumbai (12kg) - ₹2,400.00
+- Packaging & Handling Charges - ₹350.00
+- GST (18%) - ₹495.00
+
+Status: Pending Calculation / Invoice Draft - Final Total Pending Approval
+
+---
+
+COFFEE HOUSE & ROASTERY
+124 Main Street, Austin TX
+
+Date: 04/03/2026
+Receipt #: 88412
+
+1x Cold Brew Coffee - $5.50
+1x Avocado Toast - $12.00
+1x Almond Croissant - $4.25
+
+Total Paid: $21.75
+Payment Type: Cash
+
+---
+
+CloudNet Europe B.V.
+TAX INVOICE
+
+Invoice Date: 11-04-25
+Due Date: 12-04-25
+Invoice Number: CN-2025-99821
+VAT Reg: NL819203911B01
+
+Service Description:
+Virtual Private Server - XL Instance (Monthly) - €65.00
+Managed Backup Storage 500GB - €15.00
+
+Subtotal: €80.00
+VAT (21%): €16.80
+Total Amount Due: €96.80
+
+Bank Transfer Details: IBAN NL91 ABNA 0412 3456 78
+
+---
+
+INVOICE
+
+Shree Ram Hardware Stores
+Bill No: 4921
+Date: 22/08/2026
+
+Particulars: Heavy Duty Drill Machine 750W
+Amount: ₹3,800.00
+CGST @ 9%: ₹342.00
+SGST @ 9%: ₹342.00
+
+Net Amount Payable: ₹4,484.00
+Payment Status: Received Cash

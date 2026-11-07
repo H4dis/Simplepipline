@@ -1,0 +1,403 @@
+Amazon.in
+Order Confirmation
+
+Order #: 407-1234567-8901234
+Order Date: 03 September 2026
+
+Ship to:
+[RAMLAL 175 G/F Wave City, Ghaziabad]
+
+Item                          Qty   Price
+Wireless Mouse                 1    ₹799.00
+USB-C Cable 1m                 2    ₹249.00
+
+Subtotal: ₹1,048.00
+Shipping: ₹50.00
+Total: ₹1,098.00
+
+Thank you for shopping with us!
+Paid via Cash.
+
+---
+
+Flipkart.us
+Order Confirmation
+
+Order #: 007-174697-8907869
+Order Date: 03 September 2026
+
+Ship to:
+[RAMESG 775 2nd/F Pinewood Enclave ,Wave City, Uttar Pradesh]
+
+Item                          Qty   Price
+Wireless charger               1    $ 99.00
+Paper cutter                   1    $ 29.00
+===========================================================
+ITEMS SUBTOTAL:                     $ 128.00
+INT'L SHIPPING:                     $ 35.00
+IMPORT IGST (18%):                  $ 27.00
+CUSTOMS HANDLING:                   $ 12.00
+===========================================================
+Total:                              $ 202.00
+
+===========================================================
+Payment Mode: Online
+Payment Paid via: RazorPay Gateway 
+============================================================
+Thank you for shopping with Flipkart!
+e-invoice shared on e-mail.
+
+---
+
+Amazon.in
+Order Confirmation
+
+Order #: 407-6474657-45858758
+Order Date: 33 September 2026
+
+Ship to:
+[SURESH 285 G/F Aditya World City, Uttar Pradesh, 201002]
+
+Item                          Qty   Price
+Wired Mouse                    1    ₹799.00
+Laptop i7 core                 2    ₹1,12,490.00
+
+Subtotal: ₹3,189.00
+Shipping: ₹0.00
+Total: ₹3,189.00
+
+Thank you for shopping with us!
+Paid via Credit Card ending 8978
+
+---
+
+Blinkit.in
+Order Confirmation
+------------------------------------------------
+Order #: 742-4556755-8964654
+Order Date: 14 August 2026
+--------------------------------------------------
+Ship to:
+[MADAN PURI 95 G/F Mukund Vihar, Ghaziabad]
+
+Item                          Qty   Price
+SUNGLASSES                     1    ₹899.00
+COOKIES                        2    ₹349.00
+--------------------------------------------------
+Subtotal: ₹1,597.00
+Shipping: ₹12.00
+Discount: ₹100.00
+Total: ₹1,509.00
+---------------------------------------------------
+Online Paid via Navi UPI.
+Thank you for shopping with us! Have a great day.
+
+---
+
+Noise.in
+Order C0nfirmation
+
+Order #: 407-734895-7825902
+Order Date: 05/06/2026
+
+Ship to:
+[RAMLAL YADAV 178 G/F Jyoti Park, Haryana]
+
+Item                          Qty   Price
+Wireless Mouse                 1    ₹799.00
+USB-C Cable 1m                 2    ₹89.35
+
+
+Paid Via Cash.
+Thank you for shopping with us!
+
+---
+
+waffleXpress.co.in
+Order Confirmation
+================================================
+Order #: 807-35212852-5453463
+Order Date: 03 September 2026
+================================================
+Ship to:
+[RAMLAL 175 G/F Wave City, Ghaziabad]
+================================================
+Item                          Qty   Price
+waffle                         10    ₹1,900.00
+pizza Big 6                     2    ₹849.00
+=================================================
+			Subtotal: ₹2,749.00
+			Shipping: ₹35.49
+			------------------
+			Total: ₹2,784.49
+==================================================
+Payment Mode: Online
+Payment via: UPI 
+Gateway: HDFC Gateway
+
+e-invoice share on number ending 562
+Thank you for shopping with us!
+
+---
+
+Amazon.in
+Order Confirmation
+
+Order #: 407-1234567-8901234
+Order Date: 03 September 2026
+
+Ship to:
+[KOMAL SAINI 75-A, Tower C, Windsor Park, Indirapuram, Ghaziabad]
+-----------------------------------------------------------------
+Item                          Qty   Price
+Wireless Mouse                 1    ₹899.00
+USB-C Cable 1m                 2    ₹200.00
+-----------------------------------------------------------------
+		Subtotal: ₹1,099.00
+		Shipping: ₹40.69
+		==================
+		Total: ₹1,140.00
+
+------------------------------------------------------------------
+Payment Mode: online
+Payment Status: Pending.
+------------------------------------------------------------------
+Thank you for shopping with us!
+
+---
+
+Amazon.in
+Order Confirmation
+
+Order #: 4A-1234567-8901234
+Order Date: 01 September 2026
+
+Ship to:
+[VINOD KISHAN GAUR]
+
+Item                          Qty   Price
+Wired Earphone Type C          1    $805.00
+iPhone 17 16GB 512GB           2    $1,249.00
+
+			Subtotal: $2,054.00
+			Shipping: $1.00
+			Total: $2,055.00
+
+Payment Mode: POD
+
+Thank you for shopping with us!
+
+---
+
+
+                                 FLIPKART USA
+                           International E-Commerce
+                         Invoice & Customs Declaration
+
+INVOICE NUMBER:  US-IN-9874521               DATE OF ISSUE: Sept 06, 2026
+ORDER ID:        FUSA-77391054-IN            PAYMENT STATUS: PAID ONLINE
+ORDER DATE:      Sept 05, 2026               PAYMENT METHOD: Credit Card (Visa)
+ORDER STATUS:    PREPAID / BILLED            TXN REFERENCE:  TXN-USIN-8849201
+
+SOLD BY:                                     SHIPPED TO: (Delivery Address)
+--------------------------------------------------------------------------------
+Flipkart USA LLC                             Rahul Sharma
+100 Mountain View Blvd,                      Flat 402, Radiant Heights,
+Suite 400, Basking Ridge,                    Sector 62, Noida,
+NJ 07920, United States                      Uttar Pradesh - 201301, India
+Email: support@flipkart.us                   Phone: +91 98765 43210
+--------------------------------------------------------------------------------
+
+ITEMIZED TRANSACTION DETAILS:
+
+Sr. Item Description            HSN/SAC   Qty  Unit Price  Taxable Val.   Total
+--------------------------------------------------------------------------------
+01. Premium Leather Messenger   42021110   1   $ 120.00     $ 120.00    $ 120.00
+    Bag (Brown)
+02. Wireless Ergonomic Mouse    84716060   1   $  30.00     $  30.00    $  30.00
+
+--------------------------------------------------------------------------------
+                                                    ITEMS SUBTOTAL:     $ 150.00
+                                                    INT'L SHIPPING:     $  35.00
+                                                    IMPORT IGST (18%):  $  27.00
+                                                    CUSTOMS HANDLING:   $  12.00
+                                                    ----------------------------
+                                                    TOTAL AMOUNT:       $ 224.00
+                                                    AMOUNT PAID:        $ 224.00
+                                                    BALANCE DUE:        $   0.00
+--------------------------------------------------------------------------------
+
+================================================================================
+                                PAYMENT RECEIPT
+================================================================================
+This certifies that full payment has been received online via international 
+gateway processing. No additional amount is collectable at the time of delivery 
+by the logistics partner. 
+
+Cross-Border Transaction Settlement Currency: USD ($)
+Conversion rate referenced at time of charge: 1 USD = 87.50 INR (approximate)
+Final Bank Settled Amount: ₹ 19,600.00 INR
+================================================================================
+Thank you for shopping with Flipkart USA! For tracking or returns, visit your account.
+
+---
+
+EpicGames.com
+Hi Rohan!
+Thank you for your purchase!
+
+INVOICE ID:
+F5210494656
+
+YOUR ORDER INFORMATION:
+Order ID:	Bill To:
+F2608291337453602	rohank
+Order Date:	Source:
+August 29, 2026	Epic Games Store
+HERE'S WHAT YOU ORDERED:
+Description:	Publisher:	        Price:
+Breathedge	Hypetrain Digital	₹1100.00 INR
+Discounts:	
+Sale Discount	- ₹1100.00 INR
+TOTAL:	₹0.00 INR
+Please keep a copy of this receipt for your records.
+View your purchase history
+View your Epic Rewards balance
+
+---
+
+
+
+ 
+ 	
+	
+
+Your order is delivered		
+
+
+ 
+	
+
+Hi Priya,
+Your order BNN-2080383762-20260823 is delivered. We apologize for not making it on time. We will work harder to provide you a better experience next time.
+If you are not happy with any item, you can return or exchange here.
+
+
+ 
+Apologies,
+Team bigbasket
+
+ 
+Need any help?
+Contact us any day between 7 AM to 10 PM. We are happy to help.
+Email Us    |    18601231000    |    Ask Us
+
+---
+
+SHEIN INDIA
+
+We delivered your SHEIN Order with ID: SH5929701305
+Priya ,
+Time to celebrate!
+You order with ID: SH5929701305 has been successfully delivered at the given address.
+We hope that you absolutely love it!
+Contents of the package:
+Item Description	Options	Price	Sub Total
+Smiley face	Shein High Rise Full Length Fixed Waist Pleated Pant
+Colour	blue
+Size	30
+Qty	1
+Rs. 679.0	Rs. 679.0
+Sub TotalRs. 679.0
+Gift Wrap	Rs. 0.00
+DeliveryFREE
+Coupon Discount	- Rs. 200.0
+Bank Discount	- Rs. 0.0
+Credits	- Rs. 0.00
+Order TotalRs. 479.0
+(Please note: If the order is pre-paid, you do not need to pay any amount to the courier person)
+
+VIEW ORDER
+
+DELIVERY ADDRESS
+Priya
+175, UTTARPRADESH, India
+
+---
+
+
+
+ 
+ 	
+	
+
+Your order is delivered, on time!		
+
+
+ 
+	
+
+Hi Priya,
+As promised, your order BNN-2025218586-20260624 is delivered on time.
+If you are not happy with any item, you can return or exchange here.
+
+
+ 
+Cheers,
+Team bigbasket
+
+---
+
+Clovia
+
+Order Details
+Order No: 32773974Track Now
+
+Expected delivery by Sat, 18 Jul 2026
+
+Payment Mode : ONLINE
+
+Items Details
+
+
+Mid Waist Hipster Panty in Black with ...
+Qty: 1
+Size: M
+Item Price: 380.00
+
+
+
+Mid Waist Hipster Panty in Nude Colour...
+Qty: 1
+Size: XL
+Item Price: 260.00
+
+
+
+Mid Waist Boyshorts in Black - Cotton...
+Qty: 1
+Size: XL
+Item Price: 237.00
+
+
+
+Mocha Latte High Waist Hipster Panty -...
+Qty: 1
+Size: M
+Item Price: 380.00
+
+Payment Information
+Total₹ 1257.00
+Offer Discount₹ 658.00
+Coupon Discount₹ 14.97
+Sub Total₹ 584.03
+Tax₹ 29.20
+Shipping ChargesFree
+Total₹ 613.23
+Payment ModeONLINE
+Note : Prices reduced as per GST change effective 22 Sep 2025. Full benefit passed to customer.
+
+Delivery Details
+Priya Mehta
+105, Aditya City, Uttar Pradesh
+
